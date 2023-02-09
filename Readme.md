@@ -22,7 +22,7 @@ Ceci est une application PHP MySQL simple d'inscription et de connexion qui perm
 - L'application utilise des déclarations préparées pour prévenir les attaques d'injection SQL
 
 ## Contribution
-Si vous trouvez des bugs ou avez des suggestions pour des améliorations, n'hésitez pas à ouvrir une demande ou soumettre une demande de tirage.
+Si vous trouvez des bugs ou avez des suggestions pour des améliorations, n'hésitez pas à ouvrir une demande ou soumettre une pull request.
 
 ## Licence
 Ce projet est sous licence MIT.
